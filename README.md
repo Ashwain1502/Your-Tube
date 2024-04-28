@@ -10,7 +10,7 @@ I developed a dynamic web platform for video streaming using React.js, Material 
 5. Run the command 'npm start' to start the application
 
 ## Link for Rapid Api website:
-
+[Click Here](https://rapidapi.com/ytdlfree/api/youtube-v31/)
 
 ## Wokring link
-[Click here](https://yourtube-onthego.netlify.app/)
+[Click Here](https://yourtube-onthego.netlify.app/)
