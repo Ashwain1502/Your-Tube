@@ -1,6 +1,6 @@
 # [Your-Tube](https://your-tube-on-the-go.netlify.app/)
 
-I developed a dynamic web platform for video streaming using React.js, Material UI, Tailwind CSS, and the YouTube V3 API. Integrated components like trending videos, channel info, and search functionality, span diverse content categories. Leveraged YouTube V3 API for efficient data retrieval, ensuring seamless user experience across devices with responsive design.
+A dynamic web platform for video streaming developed using React.js, Material UI, Tailwind CSS, and the YouTube V3 API. Integrated components like trending videos, channel info, and search functionality, span diverse content categories. Using YouTube V3 API for efficient data retrieval, ensuring seamless user experience across devices with responsive design.
 
 ## Functions Implemented
 1. Search functionality to search for videos of your interest.
