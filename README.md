@@ -7,6 +7,7 @@ A dynamic web platform for video streaming developed using React.js, Material UI
 2. Watch videos by clicking on them
 3. Shows channel information and their famous videos
 4. Utilised YouTube v3 API to get videos from the backend.
+5. Top comments from the users are also displayed.
 
 ## How to run the application:
 1. Download the zip file.
