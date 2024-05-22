@@ -9,6 +9,9 @@ A dynamic web platform for video streaming developed using React.js, Material UI
 4. Utilised YouTube v3 API to get videos from the backend.
 5. Top comments from the users are also displayed.
 
+## Working on:
+1. User login and identification functionality.
+
 ## How to run the application:
 1. Download the zip file.
 2. Extract and move to the folder.
