@@ -11,6 +11,7 @@ A dynamic web platform for video streaming developed using React.js, Material UI
 
 ## Working on:
 1. User login and identification functionality.
+2. User database with Mongo DB
 
 ## How to run the application:
 1. Download the zip file.
