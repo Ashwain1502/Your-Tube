@@ -1,6 +1,5 @@
 # Introduction
-
-A dynamic web platform for video streaming developed using React.js, Material UI, and the YouTube V3 API. Integrated components like trending videos, channel info, and search functionality, span diverse content categories. Using YouTube V3 API for efficient data retrieval, ensuring seamless user experience across devices with responsive design.
+A dynamic web platform for video streaming developed using React.js, Material UI, and the YouTube V3 API. Integrated components like trending videos, channel info, and search functionality, span diverse content categories. They are using YouTube V3 API for efficient data retrieval, ensuring seamless user experience across devices with responsive design.
 
 ## Functions Implemented
 1. Search functionality to search for videos of your interest.
@@ -21,10 +20,10 @@ A dynamic web platform for video streaming developed using React.js, Material UI
 5. Run the command 'npm start' to start the application.
 
 ## Link for Rapid API website:
-[Click Here](https://rapidapi.com/ytdlfree/api/youtube-v31/)
+[Click Here](https://rapidapi.com/ytdlfree/api/youtube-v31/).
 
 ## Wokring link
-[Click Here](https://yourtube-onthego.netlify.app/)
+[Click Here](https://yourtube-onthego.netlify.app/).
 
 ## Contributors
-Ashwani Kumar (ashwink1502@gmail.com)
+Ashwani Kumar (ashwink1502@gmail.com).
