@@ -24,5 +24,5 @@ A dynamic web platform for video streaming developed using React.js, Material UI
 ## Wokring link
 [Click Here](https://yourtube-onthego.netlify.app/).
 
-> ## Contributors
+> ### Contributors
 > Ashwani Kumar (ashwink1502@gmail.com).
