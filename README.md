@@ -1,7 +1,7 @@
 # Introduction
 A dynamic web platform for video streaming developed using React.js, Material UI, and the YouTube V3 API. Integrated components like trending videos, channel info, and search functionality, span diverse content categories. They are using YouTube V3 API for efficient data retrieval, ensuring seamless user experience across devices with responsive design.
 
-## Functions Implemented
+## Functions Implemented:
 1. Search functionality to search for videos of your interest.
 2. Watch videos by clicking on them.
 3. Shows channel information and their famous videos.
