@@ -22,7 +22,7 @@ A dynamic web platform for video streaming developed using React.js, Material UI
 [Youtube V3](https://rapidapi.com/ytdlfree/api/youtube-v31/).
 
 ## Wokring link
-[Your-Tube](https://yourtube-onthego.netlify.app/).
+[Your-Tube](https://yourtube-onthego.netlify.app/)
 
 > ### Contributors
-> Ashwani Kumar (ashwink1502@gmail.com).
+> Ashwani Kumar (ashwink1502@gmail.com)
