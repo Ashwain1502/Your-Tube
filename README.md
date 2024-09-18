@@ -19,10 +19,10 @@ A dynamic web platform for video streaming developed using React.js, Material UI
 5. Run the command 'npm start' to start the application.
 
 ## Link for Rapid API website:
-[Youtube V3](https://rapidapi.com/ytdlfree/api/youtube-v31/).
+[Youtube V3](https://rapidapi.com/ytdlfree/api/youtube-v31/)
 
 ## Wokring link
-[Your-Tube](https://yourtube-onthego.netlify.app/).
+[Your-Tube](https://yourtube-onthego.netlify.app/)
 
 > ### Contributors
-> Ashwani Kumar (ashwink1502@gmail.com).
+> Ashwani Kumar (ashwink1502@gmail.com)
